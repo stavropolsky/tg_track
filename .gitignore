@@ -1,0 +1,8 @@
+*.log
+bot.session
+user.session
+monitoring.db
+config.ini
+venv/
+.idea/
+tg_track/
